@@ -1,0 +1,2 @@
+# Llamafactory-GPT-SoVITS
+集成了Llamafactory与GPT-SoVITS语音生成，在微调llm后使用可视化ui与llm进行对话，并让llm通过文本和语音两个途径输出结果
